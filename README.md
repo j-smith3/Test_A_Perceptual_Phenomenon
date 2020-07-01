@@ -6,5 +6,5 @@ The following steps are used to find the results:
    - A brief description of data including dependent and independent variables.
    - Hypothesis and Alternative hypothesis are explained.
    - Finding the mean, standard deviation, and standard error.
-   - The Stroop test is validated to find the critical intervals on sample data.
+   - The Stroop test is validated by finding the critical intervals on sample data.
    - Resulted in the critical values, p-value, t-statistics and degrees of freedom.
