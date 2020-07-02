@@ -4,7 +4,7 @@ This project investigates the use of a Stroop test on a sample population and ut
 The following steps are followed in my investigation:
 
    - A brief description of data including dependent and independent variables.
-   - Hypothesis and Alternative hypothesis are explained.
+   - Hypothesis and Alternative Hypothesis are explained.
    - Finding the mean, standard deviation, and standard error.
-   - The Stroop test is validated by finding the critical intervals on sample data.
-   - Resulted in the critical values, p-value, t-statistics and degrees of freedom.
+   - The Stroop test is validated by finding the critical intervals on sampling data.
+   - Results are the critical values, p-value, t-statistics and degrees of freedom.
